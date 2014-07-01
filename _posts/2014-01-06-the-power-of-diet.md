@@ -2,7 +2,9 @@
 layout: post
 title: 我为什么开始减重
 date: '2014-01-06T21:13:32+08:00'
-tags: []
+tags: 
+category: 无病呻吟
+
 tumblr_url: http://fitlogs.tumblr.com/post/72437271062
 ---
 

@@ -2,7 +2,9 @@
 layout: post
 title: 作为装备党，跑步8个月，最有用的装备是什么？
 date: '2014-03-31T20:42:50+08:00'
-tags: []
+tags: 经验
+category: 装备
+
 tumblr_url: http://fitlogs.tumblr.com/post/81285334799/8
 ---
 最近知乎看的有点多，所以码起字来也不知不觉有了知乎味。

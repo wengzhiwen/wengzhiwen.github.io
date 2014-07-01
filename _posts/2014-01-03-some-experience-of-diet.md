@@ -2,7 +2,9 @@
 layout: post
 title: 关于减重的一点心得
 date: '2014-01-03T10:02:02+08:00'
-tags:
+tags: 经验
+category: 无病呻吟
+
 tumblr_url: http://fitlogs.tumblr.com/post/72031290698
 ---
 
