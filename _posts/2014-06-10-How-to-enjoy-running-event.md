@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2014年6月10日
+title: 如何优雅的参加一场长跑比赛
 date: '2014-06-10+08:00'
 tags: 经验
 category: 比赛纪实
