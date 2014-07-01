@@ -2,8 +2,8 @@
 layout: post
 title: 关于4/20扬州半程马拉松的准备工作
 date: '2014-04-01T18:51:00+08:00'
-tags: 经验
-category: 比赛纪实
+tags: 目标
+category: 阶段小结
 
 tumblr_url: http://fitlogs.tumblr.com/post/81380071079/4-20
 ---
